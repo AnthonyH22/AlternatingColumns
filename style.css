@@ -6,6 +6,7 @@ html {
 .border {
   max-width: 500px;
 }
+
 tr {
   background-color: green;
   width: 40px;
@@ -15,6 +16,7 @@ tr {
 th {
   border: 5px solid #e916cd;
 }
+
 td {
   background-color: blue;
   width: 40px;
